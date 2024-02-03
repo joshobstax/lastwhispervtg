@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Name - Resume</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Joshua A. Obstaculo</h1>
+    <h2>BS Information Technology</h2>
+    <p>9282881134</p>
+  </header>
+
+  <main>
+    <section id="personal-info">
+      <h2>Personal Information</h2>
+      <ul>
+        <li>Phone Number: +63 9282881134</li>
+        <li>Email: joshobstax@gmail.com</li>
+        <li>Website: lastwhisper.vtg</li>
+      </ul>
+    </section>
+
+    <section id="education">
+      <h2>Education</h2>
+      <ul>
+        <li>
+          <h3>Bachelor of Science in Information Technology</h3>
+          <h4>Bicol University Polangui, Polangui, Albay</h4>
+          <p>2022-present</p>
+        </li>
+        </ul>
+    </section>
+
+    <section id="work-experience">
+      <h2>Work Experience</h2>
+      <ul>
+        <li>
+          <h3>Job Title</h3>
+          <h4>Company Name, City, State</h4>
+          <p>Start Date - End Date</p>
+          <ul>
+            <li>Responsibility 1</li>
+            <li>Responsibility 2</li>
+            </ul>
+        </li>
+        </ul>
+    </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>Computer Literate</li>
+        <li>Skill 2</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <ul>
+        <li>
+          <h3>Project Name</h3>
+          <p>Brief description</p>
+          <a href="project-link">View Project (Optional)</a>
+        </li>
+        </ul>
+    </section>
+
+    <section id="awards">
+      <h2>Awards and Recognitions</h2>
+      <ul>
+        <li>Award Name, Year</li>
+        </ul>
+    </section>
+  </main>
+
+  <footer>
+    </footer>
+
+</body>
+</html>
